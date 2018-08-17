@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="title" label="Title" language="en" table="x_261924_collabora_opportunity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <help/>
+            <hint/>
+            <label>Title</label>
+            <language>en</language>
+            <name>x_261924_collabora_opportunity</name>
+            <plural>Titles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-17 12:57:58</sys_created_on>
+            <sys_id>25c54d64db002300996ada75ca96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Title</sys_name>
+            <sys_package display_value="Collaboration Manager" source="x_261924_collabora">49440d24db002300996ada75ca96196d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collaboration Manager">49440d24db002300996ada75ca96196d</sys_scope>
+            <sys_update_name>sys_documentation_x_261924_collabora_opportunity_title_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-17 12:57:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

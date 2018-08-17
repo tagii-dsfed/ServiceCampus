@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Collaboration Manager">81444d24db002300996ada75ca9619a8</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Position Titles</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_261924_collabora_position_title</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_261924_collabora.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-17 13:11:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c80de4db002300996ada75ca961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Position Titles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Collaboration Manager" source="x_261924_collabora">49440d24db002300996ada75ca96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collaboration Manager">49440d24db002300996ada75ca96196d</sys_scope>
+        <sys_update_name>sys_app_module_22c80de4db002300996ada75ca961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-17 13:11:09</sys_updated_on>
+        <timeline_page/>
+        <title>Position Titles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

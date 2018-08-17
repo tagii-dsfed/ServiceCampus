@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="middle_name" label="Middle Name" language="en" table="x_261924_collabora_person">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>middle_name</element>
+            <help/>
+            <hint/>
+            <label>Middle Name</label>
+            <language>en</language>
+            <name>x_261924_collabora_person</name>
+            <plural>Middle Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-17 13:04:19</sys_created_on>
+            <sys_id>2237c9a4db002300996ada75ca9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Middle Name</sys_name>
+            <sys_package display_value="Collaboration Manager" source="x_261924_collabora">49440d24db002300996ada75ca96196d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collaboration Manager">49440d24db002300996ada75ca96196d</sys_scope>
+            <sys_update_name>sys_documentation_x_261924_collabora_person_middle_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-17 13:04:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

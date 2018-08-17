@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-17 13:04:19</sys_created_on>
+        <sys_id>2e37c9a4db002300996ada75ca961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_261924_collabora_person.x_261924_collabora.user</sys_name>
+        <sys_package display_value="Collaboration Manager" source="x_261924_collabora">49440d24db002300996ada75ca96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collaboration Manager">49440d24db002300996ada75ca96196d</sys_scope>
+        <sys_security_acl display_value="x_261924_collabora_person">e237c9a4db002300996ada75ca961997</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2e37c9a4db002300996ada75ca961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-17 13:04:19</sys_updated_on>
+        <sys_user_role display_value="x_261924_collabora.user" name="x_261924_collabora.user">d1444d24db002300996ada75ca9619aa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
