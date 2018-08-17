@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_261924_collabora_person" label="Prospect" max_length="40" name="x_261924_collabora_prospect" type="collection"/>
+</database>
